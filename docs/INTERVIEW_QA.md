@@ -12,4 +12,4 @@ Keeping an autonomous coding agent correct and reviewable rather than confidentl
 - **Docker** — containerized local deployment.
 
 ### "How does it fit the rest of your portfolio?"
-It follows my "Antigravity" model — local logic/state/UI, cloud reasoning where it earns its cost — and shares the documentation and deployment conventions used across all my projects (AX-11).
+It follows my "" model — local logic/state/UI, cloud reasoning where it earns its cost — and shares the documentation and deployment conventions used across all my projects (AX-11).

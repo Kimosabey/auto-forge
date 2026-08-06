@@ -28,7 +28,7 @@ graph LR
 
 ## Decision Log
 - **Why this stack:** **LangGraph** — stateful multi-agent orchestration; **OpenAI** — cloud llm reasoning; **Docker** — containerized local deployment.
-- **Antigravity constraint:** run logic/state/UI locally; offload heavy reasoning to cloud APIs; target modest hardware.
+- ** constraint:** run logic/state/UI locally; offload heavy reasoning to cloud APIs; target modest hardware.
 
 ## Concept Deep Dive
 Keeping an autonomous coding agent correct and reviewable rather than confidently wrong.

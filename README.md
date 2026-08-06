@@ -7,7 +7,7 @@
 ## 📖 Overview
 AutoForge takes an issue, plans the change with a LangGraph agent, generates code via AST-aware edits, and opens a PR that runs through CI — automating the routine parts of the engineering lifecycle.
 
-> Part of my Senior Hybrid Engineer 2026 portfolio (`AX-11`). Built on the "Antigravity" model — logic, state, and UI run locally in Docker while heavy reasoning is offloaded to cloud APIs, so the whole system runs on modest hardware.
+> Part of my  . Built on the "" model — logic, state, and UI run locally in Docker while heavy reasoning is offloaded to cloud APIs, so the whole system runs on modest hardware.
 
 ## 🚀 Quick Start
 ```bash
